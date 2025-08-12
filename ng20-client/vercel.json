@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npx ng build --configuration production",
+  "outputDirectory": "dist/ng20-client/browser",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
