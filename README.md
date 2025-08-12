@@ -44,4 +44,4 @@ This Angular 18 project demonstrates client-side routing, fetching API data, and
 ### 6. Deploy the Application
 
 - Build the app using Angular CLI production build.
-- Deploy to GitHub Pages, Netlify, Vercel, or another hosting service.
+- Deploy to Vercel.
